@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chandra Kiran Bandi</h1>
 <h3 align="center">DevOps Intern | Skilled in AWS, CI/CD, and Automation Tools I Eager to Build Scalable and Automated Cloud Solutions</h3>
-<img align="right" alt="coding" width="400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://softflow.ca/wp-content/uploads/2022/12/CloudMonitoring-comp-unscreen.gif)">
+<img align="right" alt="coding" width="400" src="https://softflow.ca/wp-content/uploads/2022/12/CloudMonitoring-comp-unscreen.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrakiran5139&label=Profile%20views&color=0e75b6&style=flat" alt="chandrakiran5139" /> </p>
 
 - 🔭 I’m currently working on **AWS and DEVOPS intern**
